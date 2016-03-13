@@ -56,7 +56,6 @@ $('div', this).slideDown(200);
  .sub1_img{ width:400px; height:160px; background:skyblue}
  #form_body
  {
-  
   border:solid 0px #C6C6C6;
   background:#EFEFEF;
   width:1000px;
@@ -65,13 +64,11 @@ $('div', this).slideDown(200);
  } 
   #top
  {
- 
   border:solid 0px #C6C6C6;
   background:yellow;
   width:1000px;
   height:100px;
   margin:0px auto; /* 전체 자동으로 가운데 정렬 0은 위아래 auto는 좌우*/
-  
  }
  </style>
 
